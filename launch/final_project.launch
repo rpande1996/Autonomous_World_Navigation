@@ -1,0 +1,6 @@
+<launch>
+    <node name="final_project"
+    type="final_project_node"
+    pkg="final_project"
+    output="screen"></node>
+</launch>
