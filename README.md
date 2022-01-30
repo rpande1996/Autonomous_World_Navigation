@@ -64,21 +64,21 @@ World 1:
 
 - [RViz: ](https://youtu.be/0AvuQx_wBzE)
 
-![ezgif com-gif-maker](https://github.com/rpande1996/Video_Correction/blob/master/media/gif/world1_rviz.gif)
+![ezgif com-gif-maker](media/gif/world1_rviz.gif)
 
 - [Gazebo: ](https://youtu.be/Br2HN8fG9wk)
 
-![ezgif com-gif-maker](https://github.com/rpande1996/Video_Correction/blob/master/media/gif/world1_gazebo.gif)
+![ezgif com-gif-maker](media/gif/world1_gazebo.gif)
 
 World 2:
 
 - [RViz: ](https://youtu.be/S6kaEBs8Dn4)
 
-![ezgif com-gif-maker](https://github.com/rpande1996/Video_Correction/blob/master/media/gif/world2_rviz.gif)
+![ezgif com-gif-maker](media/gif/world2_rviz.gif)
 
 - [Gazebo: ](https://youtu.be/zu4gU5dqbfQ)
 
-![ezgif com-gif-maker](https://github.com/rpande1996/Video_Correction/blob/master/media/gif/world2_gazebo.gif)
+![ezgif com-gif-maker](media/gif/world2_gazebo.gif)
 
 ## Build
 
