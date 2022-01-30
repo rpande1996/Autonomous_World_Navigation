@@ -62,7 +62,7 @@ SOFTWARE.
 
 World 1:
 
-- ![RViz: ](https://youtu.be/0AvuQx_wBzE)
+- [RViz: ](https://youtu.be/0AvuQx_wBzE)
 
 ![ezgif com-gif-maker](https://github.com/rpande1996/Video_Correction/blob/master/media/gif/world1_rviz.gif)
 
@@ -72,7 +72,7 @@ World 1:
 
 World 2:
 
-- ![RViz: ](https://youtu.be/S6kaEBs8Dn4)
+- [RViz: ](https://youtu.be/S6kaEBs8Dn4)
 
 ![ezgif com-gif-maker](https://github.com/rpande1996/Video_Correction/blob/master/media/gif/world2_rviz.gif)
 
