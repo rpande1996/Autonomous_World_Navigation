@@ -4,9 +4,9 @@
 
 ## Contributors
 
-1) [Rajan Pande](https://github.com/rpande1996)
+1) [Rajan Pande](https://github.com/rpande1996): 
 Graduate Student of M.Eng Robotics at University of Maryland. 
-2) [Douglas Summerlin](https://github.com/dsumm1001)
+2) [Douglas Summerlin](https://github.com/dsumm1001): 
 Graduate Student of M.Eng Robotics at University of Maryland.
 
 ## Overview
